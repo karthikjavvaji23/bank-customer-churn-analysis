@@ -1,6 +1,7 @@
 # 🔵 **Bank Customer Churn Analysis & Prediction**
 
 An end-to-end analytics project combining **Python, Machine Learning, and Power BI** to understand why customers leave a bank and to predict which customers are most likely to churn. This project demonstrates strong skills in **data analysis, BI reporting, feature engineering, and business interpretation**.
+<img width="1289" height="729" alt="Screenshot 2025-11-23 132441" src="https://github.com/user-attachments/assets/16e4f8a2-673d-41dd-ac81-2d7b1182f427" />
 
 ---
 
